@@ -1,5 +1,5 @@
 {
-  "name": "udp-write-stream",
+  "name": "udp-writable-stream",
   "version": "1.0.0",
   "description": "A plain &amp; simple node.js Writeable Stream Wrapper for sending unicast messages to a remote host.",
   "main": "index.js",
