@@ -1,6 +1,6 @@
 {
   "name": "udp-writable-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plain &amp; simple node.js Writeable Stream Wrapper for sending unicast messages to a remote host.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cphoover/udp-stream.git"
+    "url": "git+https://github.com/cphoover/udp-writable-stream.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cphoover/udp-stream/issues"
+    "url": "https://github.com/cphoover/udp-writable-stream/issues"
   },
-  "homepage": "https://github.com/cphoover/udp-stream#readme"
+  "homepage": "https://github.com/cphoover/udp-writable-stream/blob/master/README.md"
 }
